@@ -1,4 +1,4 @@
-import "./style.css";
+import "./style.scss";
 import { validateHandler, CloseModal, OpenModal } from "./components/Form/Form";
 
 const modal = document.querySelector(".modal");
